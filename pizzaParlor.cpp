@@ -1,4 +1,4 @@
-/*Name:Ritesh Gaikwad, Roll No.:69*/
+
 #include<iostream>
 using namespace std;
 
